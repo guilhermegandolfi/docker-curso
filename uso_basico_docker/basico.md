@@ -1,11 +1,12 @@
 # Uso basico do docker
 
-## importante estar funcionando o comando docker
+## Importante estar funcionando o comando docker
 docker
 
-## primeiro comando docker
+## Primeiro comando docker
+```shell
 docker container run hello-world
-
+```
 Comando run, principais ações: 
     Baixar imagem
     Criação do container
